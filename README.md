@@ -1,4 +1,7 @@
-# kajilab-ActivityRecognition
+# Activity Classification Introduction
+行動分類において基本となる手順およびコードをまとめたリポジトリです．
+`walk` `sit` `stop` `others` の4クラス分類を例に `RandomForest` `XGBoost` `LightGBM` の4つのモデルを用いて分類を行います．
+
 ## セットアップ
 仮想環境の作成
 ```bash
