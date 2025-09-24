@@ -4,14 +4,18 @@
 
 ## セットアップ
 仮想環境の作成
-```bash
-python -m venv venv
-source venv/bin/activate
+```shell
+$ python -m venv .venv
+```
+
+仮想環境の有効化
+```shell
+$ source .venv/bin/activate
 ```
 
 依存関係のインストール
-```bash
-pip install -r requirements.txt
+```shell
+$ pip install -r requirements.txt
 ```
 
 ## 流れ
