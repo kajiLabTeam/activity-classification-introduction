@@ -1,0 +1,19 @@
+[
+  {
+    "video_url": "/data/upload/5/fbfe9dca-%E3%83%86%E3%83%BC%E3%82%BF2.mp4",
+    "id": 14,
+    "tricks": [
+      {
+        "start": 10.902170600328947,
+        "end": 54.0,
+        "channel": 0,
+        "labels": ["walk"]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 14,
+    "created_at": "2025-09-24T11:31:00.686577Z",
+    "updated_at": "2025-09-24T11:36:29.194410Z",
+    "lead_time": 49.775999999999996
+  }
+]
