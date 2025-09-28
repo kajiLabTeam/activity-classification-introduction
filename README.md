@@ -22,4 +22,3 @@ $ pip install -r requirements.txt
 1. [前提](0-prerequisites.md)
 2. [前処理](1-preprocess.ipynb)
 3. [学習](2-train.ipynb)
-4. [評価](3-evaluate.ipynb)
