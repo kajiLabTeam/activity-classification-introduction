@@ -1,4 +1,6 @@
-others,その他
-walk,歩く
-sit,座る
-stop,立ち止まる
+other,その他
+esa,餌をつける
+cast,キャスト
+string_pull,リールを巻いて糸を張る
+wait,待機
+string_winding,糸を巻き取る
